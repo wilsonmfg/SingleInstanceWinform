@@ -38,4 +38,4 @@ Returning `false` from this method will allow another instance of the applicatio
 ## License
 [Microsoft Public License (MS-PL)](https://opensource.org/licenses/ms-pl.html)
 
-This is based heavily on SingleInstance.cs from Miscrosoft which is also MS-PL.
+This is based heavily on SingleInstance.cs from Microsoft which is also MS-PL.
