@@ -274,6 +274,7 @@ namespace SingleInstanceWinform
             if (firstInstance)
             {
                 CreateRemoteService(channelName);
+                mainForm.SignalExternalCommandLineArgs(commandLineArgs);
             }
             else
             {
